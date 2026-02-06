@@ -31,7 +31,7 @@
   <a href="#8-revision-de-nulos-y-consistencia-interna">Nulos</a> ·
   <a href="#9-conclusiones">Conclusiones</a> ·
   <a href="#10-estructura-del-repositorio">Estructura</a> ·
-  <a href="#10a-como-ejecutar-el-proyecto">Ejecución</a> ·
+  <a href="#ejecucion">Ejecución</a> ·
   <a href="#11-accesibilidad-del-readme">Accesibilidad</a> ·
   <a href="#12-referencias-y-reflexion-sobre-accesibilidad-digital">Referencias</a>
 </p>
@@ -183,6 +183,8 @@ notebook/
 README.md
 ```
 <hr>
+
+<a id="ejecucion"></a>
 
 ## 10.A Cómo ejecutar el proyecto
 
